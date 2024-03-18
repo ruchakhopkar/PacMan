@@ -13,3 +13,4 @@ EDIT: Increased the LR to achieve a better convergence.
 
 https://github.com/ruchakhopkar/PacMan/assets/70127769/aea95aca-b7d0-4c50-884b-7f902c7be606
 
+We start 
